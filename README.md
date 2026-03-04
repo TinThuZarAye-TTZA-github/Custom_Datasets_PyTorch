@@ -17,3 +17,4 @@
 
 ## Creating the TinyVGG for the model
 ## Create the function for train step and test step
+* **Calculate the loss and accurancy**
