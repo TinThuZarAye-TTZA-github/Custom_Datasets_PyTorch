@@ -19,4 +19,4 @@
 ## Create the function for train step and test step
 * **Calculate the loss and accurancy**
 
-## Plot the Loss and Accurancy Curve for Model_0 
+## Plot the Loss and Accurancy Curve for Model_0
